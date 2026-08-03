@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-3n4xzq.udintogel12ccs.cfd/sitemap.xml
